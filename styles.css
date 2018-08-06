@@ -31,3 +31,6 @@ a {
 a:hover {
  color: black;
 }
+#video {
+ width: 50%;
+}
