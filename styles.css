@@ -12,6 +12,7 @@ height: 100vh;
  flex-direction: row;
  justify-content: space-around;
  align-items: center;
+ height: 50px;
 }
 #header-img {
  height: auto;
