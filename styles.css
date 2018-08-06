@@ -16,16 +16,16 @@ height: 100vh;
 }
 #header {
  height: 10%;
- background-color: green;
 }
 #nav-bar {
  background-color: orange;
 }
 #header-img {
  justify-self: flex-start;
- align-self: flex-start;
+ align-self: center;
  max-height: 100%;
  width: auto;
+ border= "0"; 
 }
 a {
  color: white;
