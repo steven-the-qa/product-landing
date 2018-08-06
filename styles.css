@@ -32,5 +32,6 @@ a:hover {
  color: black;
 }
 #video {
- width: 50%;
+ width: 50vw;
+ height: 30vh;
 }
