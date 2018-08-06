@@ -21,7 +21,7 @@ font-size: 20px;
 }
 #nav-bar {
  background-color: orange;
- height: 10vh;
+ height: 20vh;
  justify-content: space-between;
  position: fixed;
 }
