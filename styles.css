@@ -11,7 +11,7 @@ height: 100vh;
  height: 50px;
 }
 #header-img {
- height: auto;
+ height: 40px;
  max-width: 100%;
  display: inline-block;
 }
