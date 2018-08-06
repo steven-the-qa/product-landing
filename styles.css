@@ -33,4 +33,5 @@ a:hover {
 #video {
  width: 50vw;
  height: 50vh;
+ justify-content: center;
 }
