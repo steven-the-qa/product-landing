@@ -11,4 +11,9 @@ height: 100vh;
  height: 50px;
  background-color: orange;
 }
-
+a {
+ color: white;
+}
+a:hover {
+ color: black;
+}
