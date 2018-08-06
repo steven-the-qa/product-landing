@@ -16,6 +16,7 @@ height: 100vh;
 }
 #header {
  height: 10%;
+ background-color: green;
 }
 #nav-bar {
  background-color: orange;
