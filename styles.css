@@ -15,17 +15,16 @@ height: 100vh;
  width: 100vw;
 }
 #header {
- height: 80px;
+ height: 10%;
 }
 #nav-bar {
- height: 50px;
  background-color: orange;
 }
 #header-img {
  justify-self: flex-start;
- height: auto;
- max-width: 100%;
- display: block;
+ align-self: flex-start;
+ max-height: 100%;
+ width: auto;
 }
 a {
  color: white;
