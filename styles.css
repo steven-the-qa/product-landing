@@ -21,8 +21,6 @@ height: 100vh;
  background-color: orange;
 }
 #header-img {
- justify-self: flex-start;
- align-self: center;
  max-height: 100%;
  width: auto;
  border= "0"; 
