@@ -18,6 +18,10 @@ height: 100vh;
  height: 50px;
  background-color: orange;
 }
+#header-img {
+ justify-self: flex-start;
+ height: auto;
+}
 a {
  color: white;
 }
