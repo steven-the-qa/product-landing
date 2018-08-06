@@ -19,6 +19,7 @@ margin: 0 auto;
  background-color: orange;
  height: 10vh;
  justify-content: space-between;
+ font-size: 20px;
 }
 #header-img {
  max-height: 100%;
