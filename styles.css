@@ -15,11 +15,9 @@ margin: 0 auto;
  align-items: center;
  width: 100vw;
 }
-#header {
- height: 10%;
-}
 #nav-bar {
  background-color: orange;
+ height: 10vh;
 }
 #header-img {
  max-height: 100%;
