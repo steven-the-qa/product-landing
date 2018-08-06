@@ -22,8 +22,8 @@ font-size: 20px;
 }
 #nav-bar {
  background-color: orange;
- height: 10vh;
- justify-content: flex-start;
+ height: 50px;
+ justify-content: space-around;
  position: fixed;
 }
 #header-img {
