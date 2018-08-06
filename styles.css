@@ -8,8 +8,13 @@ height: 100vh;
  align-items: center;
  width: 100vw;
 }
-#navbar {
+#nav-bar {
  flex-direction: row;
  justify-content: space-around;
  align-items: center;
+}
+#header-img {
+ height: auto;
+ width: 100%;
+ display: inline-block;
 }
