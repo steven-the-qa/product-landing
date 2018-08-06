@@ -18,6 +18,7 @@ margin: 0 auto;
 #nav-bar {
  background-color: orange;
  height: 10vh;
+ justify-content: space-between;
 }
 #header-img {
  max-height: 100%;
