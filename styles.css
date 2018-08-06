@@ -16,11 +16,16 @@ height: 100vh;
 }
 #header {
  height: 50px;
+}
+#nav-bar {
+ height: 50px;
  background-color: orange;
 }
 #header-img {
  justify-self: flex-start;
  height: auto;
+ max-width: 100%;
+ display: block;
 }
 a {
  color: white;
