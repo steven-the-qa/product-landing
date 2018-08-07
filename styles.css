@@ -6,6 +6,7 @@
 body {
 margin: 0 auto;
 font-size: 20px;
+background-color: #F4BF42;
 }
 .flex {
  display: flex;
