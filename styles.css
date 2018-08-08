@@ -20,12 +20,11 @@ font-family: 'Crimson Text', sans-serif;
 #nav-bar {
  background-color: #FF8C00;
  height: 50px;
- justify-content: center;
+ justify-content: space-around;
  position: fixed;
  display: flex;
  align-items: center;
  width: 100vw;
- margin-left: auto;
 }
 #header-img {
  max-height: 100%;
