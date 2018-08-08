@@ -20,7 +20,7 @@ font-family: 'Crimson Text', sans-serif;
 #nav-bar {
  background-color: #FF8C00;
  height: 50px;
- justify-content: space-around;
+ justify-content: flex-start;
  position: fixed;
  display: flex;
  align-items: center;
