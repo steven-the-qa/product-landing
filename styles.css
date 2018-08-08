@@ -30,7 +30,7 @@ font-family: 'Crimson Text', sans-serif;
  max-height: 100%;
  width: auto;
  border= "0";
- justify-self: left;
+ margin-right: auto;
 }
 #title {
  height: 100vh;
