@@ -20,17 +20,21 @@ font-family: 'Crimson Text', sans-serif;
 #nav-bar {
  background-color: #FF8C00;
  height: 50px;
- justify-content: space-around;
+ justify-content: space-between;
  position: fixed;
  display: flex;
  align-items: center;
  width: 100vw;
 }
+#links {
+ display: flex;
+ justify-content: flex-start;
+ align-items: center;
+}
 #header-img {
  max-height: 100%;
  width: auto;
  border= "0";
- margin-right: auto;
 }
 #title {
  height: 100vh;
