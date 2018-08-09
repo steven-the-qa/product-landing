@@ -44,6 +44,12 @@ font-family: 'Crimson Text', sans-serif;
 }
 #pricing {
  height: 100vh;
+ display: grid;
+ grid-template-rows: 30vh;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+ justify-content: center;
+ align-items: center;
+ grid-gap: 10%;
 }
 a {
  color: white;
@@ -66,11 +72,7 @@ a:hover {
  border: 5px solid orange;
 }
 .packages {
- display: grid;
- grid-template-rows: 30vh;
- grid-template-columns: 1fr 1fr 1fr 1fr;
- justify-content: center;
- align-items: center;
- grid-gap: 10%
+ background-color: white;
  border-radius: 10px;
+ border: 10px solid green;
 }
