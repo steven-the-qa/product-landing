@@ -50,7 +50,7 @@ font-family: 'Crimson Text', sans-serif;
  grid-template-rows: 100vh;
  grid-template-columns: 1fr 1fr 1fr 1fr;
  justify-content: center;
- align-items: center;
+ align-items: space-around;
  border: solid red 5px;
 }
 a {
