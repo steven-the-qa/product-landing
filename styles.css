@@ -49,9 +49,9 @@ font-family: 'Crimson Text', sans-serif;
  display: grid;
  grid-template-rows: 100vh;
  grid-template-columns: 1fr 1fr 1fr 1fr;
- justify-content: center;
+ justify-items: center;
  align-items: center;
- border: solid red 5px;
+ border: solid blue 5px;
 }
 a {
  color: white;
