@@ -82,6 +82,10 @@ a:hover {
  width: 20vw;
 }
 .descriptions {
+ display: flex;
+ flex-direction: column;
+ justify-content: flex-start;
+ align-items: center;
  background-color: slategray;
  color: white;
  border-radius: 10px;
