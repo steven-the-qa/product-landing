@@ -85,13 +85,13 @@ a:hover {
  display: flex;
  flex-direction: column;
  justify-content: flex-start;
- align-items: center;
+ align-items: flex-start;
  background-color: slategray;
  color: white;
  border-radius: 10px;
  height: 30%;
  width: 20%;
- font-size: 80%;
+ font-size: 60%;
 }
 ul {
  height: 90%;
