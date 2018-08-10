@@ -76,8 +76,17 @@ a:hover {
 }
 .packages {
  background-color: white;
+ color: orange;
  border-radius: 10px;
  border: 10px solid green;
+ height: 30vh;
+ width: 20vw;
+}
+.descriptions {
+ background-color: slategray;
+ color: red;
+ border-radius: 10px;
+ border: 10px solid blue;
  height: 30vh;
  width: 20vw;
 }
