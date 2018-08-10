@@ -52,6 +52,7 @@ font-family: 'Crimson Text', sans-serif;
  justify-items: center;
  align-items: center;
  border: solid green 5px;
+ grid-row-gap: 5px;
 }
 a {
  color: white;
