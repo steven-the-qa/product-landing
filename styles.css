@@ -51,7 +51,6 @@ font-family: 'Crimson Text', sans-serif;
  grid-template-columns: repeat(4, 1fr);
  justify-items: center;
  align-items: center;
- border: solid green 5px;
  grid-gap: 0;
 }
 a {
@@ -96,5 +95,4 @@ a:hover {
 ul {
  height: 90%;
  width: 60%;
- border: 2px yellow solid;
 }
