@@ -52,7 +52,7 @@ font-family: 'Crimson Text', sans-serif;
  justify-items: center;
  align-items: center;
  border: solid green 5px;
- grid-row-gap: 5px;
+ grid-gap: 0;
 }
 a {
  color: white;
@@ -78,15 +78,13 @@ a:hover {
  background-color: white;
  color: orange;
  border-radius: 10px;
- border: 10px solid green;
  height: 30vh;
  width: 20vw;
 }
 .descriptions {
  background-color: slategray;
- color: red;
+ color: white;
  border-radius: 10px;
- border: 10px solid blue;
  height: 30vh;
  width: 20vw;
 }
