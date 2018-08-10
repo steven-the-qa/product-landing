@@ -91,10 +91,10 @@ a:hover {
  border-radius: 10px;
  height: 30vmax;
  width: 20vmin;
- font-size: 10%;
+ font-size: 40%;
 }
 ul {
- height: 80%;
- width: 80%;
+ height: 90%;
+ width: 60%;
  border: 2px yellow solid;
 }
