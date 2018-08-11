@@ -60,11 +60,12 @@ a:hover {
  color: purple;
  border-radius: 5px;
  height: 40px;
- width: 150ox;
+ width: 150px;
  margin-top: 10px;
 }
 #submit:hover {
  border: 5px solid orange;
+ padding: 5px;
 }
 #services {
  height: 100vh;
