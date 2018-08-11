@@ -95,8 +95,7 @@ a:hover {
  display: flex;
  flex-direction: column;
  justify-content: flex-start;
- align-items: flex-start;
- background-color: slategray;
+ align-items: center;
  color: white;
  border-radius: 10px;
  height: 90%;
