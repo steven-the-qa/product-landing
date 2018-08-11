@@ -81,8 +81,7 @@ a:hover {
  grid-template-rows: repeat(2, 1fr);
  grid-template-columns: repeat(4, 1fr);
  justify-items: center;
- align-items: start;
- grid-gap: 0;
+ align-items: center;
 }
 .packages {
  background-color: white;
@@ -90,6 +89,7 @@ a:hover {
  border-radius: 10px;
  height: 30vh;
  width: 20vw;
+ margin: 0;
 }
 .details {
  display: flex;
@@ -101,7 +101,8 @@ a:hover {
  border-radius: 10px;
  height: 250px;
  width: 60%;
- font-size: 60%;
+ font-size: 80%;
+ margin: 0;
 }
 ul {
  height: 90%;
