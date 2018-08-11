@@ -40,7 +40,7 @@ font-family: 'Crimson Text', sans-serif;
 }
 #title {
  height: 100vh;
- width: 50vw;
+ width: 100vw;
  border: 5px solid green;
 }
 #services {
