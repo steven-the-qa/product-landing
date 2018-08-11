@@ -65,7 +65,6 @@ a:hover {
 }
 #submit:hover {
  border: 5px solid orange;
- padding: 5px;
 }
 #services {
  height: 100vh;
