@@ -73,8 +73,8 @@ a:hover {
  background-color: white;
  color: purple;
  border-radius: 5px;
- height: 5%;
- width: 50%;
+ height: 20px;
+ width: 50px;
  margin-top: 10px;
 }
 #submit:hover {
