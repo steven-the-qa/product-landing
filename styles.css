@@ -11,7 +11,8 @@ background-color: #F4BF42;
 font-family: 'Crimson Text', sans-serif;
 }
 #form {
- border: 5px solid blue;
+ height: 50%;
+ width: 50%;
 }
 .flex {
  display: flex;
