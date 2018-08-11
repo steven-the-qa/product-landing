@@ -10,6 +10,9 @@ font-size: 20px;
 background-color: #F4BF42;
 font-family: 'Crimson Text', sans-serif;
 }
+#form {
+ border: 5px solid blue;
+}
 .flex {
  display: flex;
  flex-direction: column;
