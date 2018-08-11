@@ -95,10 +95,11 @@ a:hover {
  display: flex;
  flex-direction: column;
  justify-content: flex-start;
- align-items: center;
+ align-items: flex-start;
  color: white;
+ background-color: slategray;
  border-radius: 10px;
- height: 90%;
+ height: 250px;
  width: 60%;
  font-size: 60%;
 }
