@@ -10,10 +10,6 @@ font-size: 20px;
 background-color: #F4BF42;
 font-family: 'Crimson Text', sans-serif;
 }
-#form {
- height: 50%;
- width: 50%;
-}
 .flex {
  display: flex;
  flex-direction: column;
@@ -29,23 +25,53 @@ font-family: 'Crimson Text', sans-serif;
  align-items: center;
  width: 100vw;
 }
-#links {
- display: flex;
- justify-content: flex-start;
- align-items: center;
-}
 #header-img {
  max-height: 100%;
  width: auto;
  border= "0";
 }
+#links {
+ display: flex;
+ justify-content: flex-start;
+ align-items: center;
+}
+a {
+ color: white;
+ text-decoration: none;
+}
+a:hover {
+ color: black;
+}
 #title {
  height: 100vh;
  width: 100vw;
 }
+#description {
+ font-size: 100%;
+}
+#email {
+ width: 300px;
+ height: 60px;
+}
+#submit {
+ border: none;
+ background-color: white;
+ color: purple;
+ border-radius: 5px;
+ height: 30px;
+ width: 100ox;
+ margin-top: 10px;
+}
+#submit:hover {
+ border: 5px solid orange;
+}
 #services {
  height: 100vh;
  width: 100vw;
+}
+#video {
+ width: 50vw;
+ height: 50vh;
 }
 #pricing {
  height: 100vh;
@@ -56,29 +82,6 @@ font-family: 'Crimson Text', sans-serif;
  justify-items: center;
  align-items: center;
  grid-gap: 0;
-}
-a {
- color: white;
- text-decoration: none;
-}
-a:hover {
- color: black;
-}
-#video {
- width: 50vw;
- height: 50vh;
-}
-#submit {
- border: none;
- background-color: white;
- color: purple;
- border-radius: 5px;
- height: 20px;
- width: 50px;
- margin-top: 10px;
-}
-#submit:hover {
- border: 5px solid orange;
 }
 .packages {
  background-color: white;
@@ -102,7 +105,4 @@ a:hover {
 ul {
  height: 90%;
  width: 60%;
-}
-#description {
- font-size: 150%;
 }
