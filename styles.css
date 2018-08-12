@@ -22,9 +22,9 @@ font-family: 'Crimson Text', sans-serif;
  width: 100vw;
  position: fixed;
  display: flex;
- justify-content: space-between;
+ justify-content: space-around;
  align-items: center;
- border: solid blue 5px;
+ border: solid yellow 5px;
 }
 #header-img {
  max-height: 100%;
@@ -32,9 +32,6 @@ font-family: 'Crimson Text', sans-serif;
  border: solid red 5px;
  display: flex;
  justify-self: flex-start;
-}
-.nav-link {
- border: solid green 5px;
 }
 a {
  color: white;
