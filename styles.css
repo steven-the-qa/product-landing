@@ -28,9 +28,9 @@ font-family: 'Crimson Text', sans-serif;
 #header-img {
  max-height: 100%;
  width: auto;
- display: flex;
+ display: block;
  border: 0;
- justify-self: flex-start;
+ margin: 0;
 }
 #links {
  display: flex;
