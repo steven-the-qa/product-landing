@@ -25,28 +25,15 @@ font-family: 'Crimson Text', sans-serif;
  justify-content: center;
  align-items: center;
 }
-#logo {
- display: flex;
- justify-content: flex-start;
- align-items: center;
- width: auto;
- border: solid green 5px;
-}
 #header-img {
  max-height: 100%;
  width: auto;
  border: solid red 5px;
-}
-#links {
  display: flex;
- justify-content: space-around;
- align-items: center;
- width: 80%;
- border: solid yellow 5px;
+ justify-self: flex-start;
 }
-#end-block {
- width: auto;
- border: solid blue 5px;
+.nav-link {
+ border: solid green 5px;
 }
 a {
  color: white;
