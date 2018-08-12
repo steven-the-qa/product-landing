@@ -24,14 +24,15 @@ font-family: 'Crimson Text', sans-serif;
  display: flex;
  justify-content: space-around;
  align-items: center;
- border: solid yellow 5px;
+ border: solid black 5px;
 }
 #header-img {
  max-height: 100%;
  width: auto;
- border: solid red 5px;
- display: flex;
- justify-self: flex-start;
+ border: solid black 5px;
+ border-radius: 5px;
+ display: block;
+ justify-self: left;
 }
 a {
  color: white;
