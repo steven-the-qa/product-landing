@@ -81,7 +81,7 @@ a:hover {
  grid-template-columns: repeat(4, 1fr);
  justify-items: center;
  align-items: center;
- padding-top: 50px;
+ padding-top: 100px;
 }
 .packages {
  background-color: white;
