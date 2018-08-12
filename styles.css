@@ -18,7 +18,7 @@ font-family: 'Crimson Text', sans-serif;
 }
 #nav-bar {
  background-color: #FF8C00;
- height: 50px;
+ height: 100px;
  width: 100vw;
  position: fixed;
  display: flex;
@@ -30,11 +30,13 @@ font-family: 'Crimson Text', sans-serif;
  width: auto;
  display: block;
  border: 0;
+ justify-self: flex-start;
 }
 #links {
  display: flex;
  justify-items: center;
  align-items: center;
+ width: 50vw;
 }
 a {
  color: white;
