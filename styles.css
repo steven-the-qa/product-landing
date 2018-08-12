@@ -28,7 +28,7 @@ font-family: 'Crimson Text', sans-serif;
 #header-img {
  max-height: 100%;
  width: auto;
- display: block;
+ display: flex;
  border: 0;
  justify-self: flex-start;
 }
@@ -37,6 +37,11 @@ font-family: 'Crimson Text', sans-serif;
  justify-items: center;
  align-items: center;
  width: 50vw;
+}
+#end-block {
+ width: auto;
+ display: flex;
+ justify-self: flex-end;
 }
 a {
  color: white;
