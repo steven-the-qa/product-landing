@@ -19,20 +19,21 @@ font-family: 'Crimson Text', sans-serif;
 #nav-bar {
  background-color: #FF8C00;
  height: 50px;
- justify-content: space-between;
+ width: 100vw;
  position: fixed;
  display: flex;
+ justify-items: space-between;
  align-items: center;
- width: 100vw;
 }
 #header-img {
  max-height: 100%;
  width: auto;
- border= "0";
+ display: block;
+ border: 0;
 }
 #links {
  display: flex;
- justify-content: flex-start;
+ justify-items: center;
  align-items: center;
 }
 a {
