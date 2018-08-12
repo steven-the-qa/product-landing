@@ -25,6 +25,12 @@ font-family: 'Crimson Text', sans-serif;
  justify-content: flex-start;
  align-items: center;
 }
+#logo {
+ display: flex;
+ justify-content: flex-start;
+ align-items: center;
+ width: auto;
+}
 #header-img {
  max-height: 100%;
  width: auto;
@@ -33,11 +39,10 @@ font-family: 'Crimson Text', sans-serif;
  display: flex;
  justify-content: space-around;
  align-items: center;
- width: 85%;
+ width: 80%;
 }
 #end-block {
  width: auto;
- display: block;
 }
 a {
  color: white;
