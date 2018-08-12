@@ -34,9 +34,9 @@ font-family: 'Crimson Text', sans-serif;
 }
 #links {
  display: flex;
- justify-content: center;
+ justify-content: space-around;
  align-items: center;
- width: 80vw;
+ width: 75%;
 }
 #end-block {
  width: auto;
