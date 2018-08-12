@@ -22,7 +22,7 @@ font-family: 'Crimson Text', sans-serif;
  width: 100vw;
  position: fixed;
  display: flex;
- justify-items: center;
+ justify-content: center;
  align-items: center;
 }
 #header-img {
@@ -34,14 +34,13 @@ font-family: 'Crimson Text', sans-serif;
 }
 #links {
  display: flex;
- justify-items: center;
+ justify-content: center;
  align-items: center;
- width: 50vw;
+ width: 80vw;
 }
 #end-block {
  width: auto;
- display: flex;
- justify-self: flex-end;
+ display: block;
 }
 a {
  color: white;
