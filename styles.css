@@ -28,15 +28,12 @@ font-family: 'Crimson Text', sans-serif;
 #header-img {
  max-height: 100%;
  width: auto;
- display: block;
- border: 0;
- margin: 0;
 }
 #links {
  display: flex;
  justify-content: space-around;
  align-items: center;
- width: 75%;
+ width: 85%;
 }
 #end-block {
  width: auto;
